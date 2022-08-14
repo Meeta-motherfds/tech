@@ -1,6 +1,6 @@
 
 
-# FRT-Proejct
+# FRT-Project
 
 This is project done by Meenakshi Saini as the final project under Microsoft Future Talent Ready Internship Program 2022. 
 
