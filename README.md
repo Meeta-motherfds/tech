@@ -32,4 +32,6 @@ https://Ed-tech.azurewebsites.net/
 Project DEMO link:
 
 
-Thank You.
+Thank You GitHub, Microsoft Azure, NASSCOM, FutureSkills Prime, EY, Monster for given me this wonderful opportunity
+
+
