@@ -21,5 +21,15 @@ I can take this idea from FutureReadyTalent Internship who gaves the opportunity
 
 Primary Azure Technology: 1.App Services 2. Web App Service  & 3. Azure Static Web Apps
 
+Project GitHub Link:
+
+https://github.com/Meeta-motherfds/tech/
+
+Project Azure URL:
+
+https://Ed-tech.azurewebsites.net/
+
+Project DEMO link:
+
 
 Thank You.
